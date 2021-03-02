@@ -1,0 +1,6 @@
+MKTG_URL_LINK_MAP['ABOUT'] = 'about'
+MKTG_URL_LINK_MAP['FAQ'] = 'faq'
+MKTG_URL_LINK_MAP['TOS'] = 'tos'
+MKTG_URL_LINK_MAP['HONOR'] = 'honor'
+MKTG_URL_LINK_MAP['PRIVACY'] = 'privacy'
+MKTG_URL_LINK_MAP['CONTACT'] = 'contact'
