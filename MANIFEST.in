@@ -1,0 +1,2 @@
+recursive-include grvlmsstudio_customize/patches *
+recursive-include grvlmsstudio_customize/templates *
