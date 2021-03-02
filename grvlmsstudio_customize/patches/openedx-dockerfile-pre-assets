@@ -1,0 +1,1 @@
+RUN curl https://github.com/edutech-groove/edx-platform/pull/2/commits/83886fdb34c5f4acf96be79fb8314775cd761dc7.patch | git apply -

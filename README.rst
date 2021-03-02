@@ -6,7 +6,7 @@ Installation
 
 ::
 
-    pip install git+https://github.com/edutech-groove/grvlms-studio-customize
+    pip install grvlms-studio-customize
 
 Usage
 -----
@@ -14,7 +14,14 @@ Usage
 ::
 
     grvlms plugins enable studio-customize
+    grvlms config save
+    grvlms images build openedx (CLI admin role)
+    grvlms local start
     
+Prerequisite
+------------
+
+- grvlms-groove-theme (Groove theme)
 
 License
 -------
